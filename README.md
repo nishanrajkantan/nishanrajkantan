@@ -1,16 +1,70 @@
-### Hi there 👋
+ <p align="center">
+     <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="50%">
+    <br><br>
+    <samp>
+      I'm Nishan Kantan :wave:
+      <br><br>
+      I work as a Machine Learning Engineer :robot: @ <a href="https://datamicron.com/">DataMicron</a>!
+      <br>
+    </samp>
+</p>
 
-<!--
-**nishanrajkantan/nishanrajkantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## <img src="https://hbobis.files.wordpress.com/2015/12/animation-rocket.gif?w=202&h=299" width="50"> A little more about me... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```swift
+import MultimediaUniversity
+
+class NishanKantan {
+
+  var code = ["python", "javascript", "typescript", "swift", "c & c++", "r", "shell"]
+  var askMeAbout = ["tech", "machine learning", "web dev", "crypto"]
+  
+  var technologies = [
+        machineLearning : [
+          frameworks: ["tensorFlow", "keras", "pytorch"],
+          libraries: ["opencv", "pandas", "numpy"]
+        ],
+        mobileApp: ["react native📱"],
+        frontEnd: [
+            js: ["nuxt", "react"],
+            css: ["bootstrap"]
+        ],
+        backEnd: [
+            python: ["django"]
+            webserver: ["nginx", "apache"]
+        ],
+        devOps: [
+            collaborate: ["trello", "jira"],
+            build: ["git", "docker🐳", ],
+            test: ["selenium", "pytest"],
+            deploy: ["git actions", "npm", "pip"],
+            run: ["aws", "digital ocean", "gcp"]
+           ],
+        databases: ["MySql", "sqlite"]
+    ]
+    
+  var architectures = [
+        "progressive web applications", 
+        "single page applications", 
+        "mvvm architecture", 
+        "mvc architecture"
+       ]
+}
+```
+
+<p align="center"> 
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+</p>
+<p align="center">
+  <i> Let's connect and chat! :incoming_envelope: </i>
+</p>
+<p align="center">
+   <a href="https://www.linkedin.com/in/nishan-kantan/">
+  <img alt="Coverage" src="https://img.shields.io/badge/-NishanKantan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishan-kantan/" width="170">
+  </a>
+</p>
+
+### 💳 Credit
+⭐️ Template from [Bhanuka Gamage](https://github.com/bhanukaManesha)<br>
