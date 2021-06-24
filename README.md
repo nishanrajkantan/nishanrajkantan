@@ -18,7 +18,7 @@ import MultimediaUniversity
 
 class NishanKantan {
 
-  var code = ["python", "javascript", "typescript", "swift", "c & c++", "r", "shell"]
+  var code = ["python", "javascript", "java", "php", "c++", "r", "shell"]
   var askMeAbout = ["tech", "machine learning", "web dev", "crypto"]
   
   var technologies = [
