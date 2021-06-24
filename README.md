@@ -2,7 +2,7 @@
      <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="50%">
     <br><br>
     <samp>
-      I'm Nishan Kantan :wave:
+     I'm <a href="https://nishankantan.com/">Nishan Kantan</a> :wave:
       <br><br>
       I work as a Machine Learning Engineer :robot: @ <a href="https://datamicron.com/">DataMicron</a>!
       <br>
