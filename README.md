@@ -65,7 +65,7 @@ class NishanKantan {
   <img alt="Coverage" src="https://img.shields.io/badge/-NishanKantan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishan-kantan/" width="170">
   </a>
 </p>
-![nishanrajkantan's github stats](https://github-readme-stats.vercel.app/api?username=nisanrajkantan&hide=["issues"]&show_icons=true)
+![nishanrajkantan's github stats](https://github-readme-stats.vercel.app/api?username=nishanrajkantan&hide=["issues"]&show_icons=true)
 
 ### 💳 Credit
 ⭐️ Template from [Bhanuka Gamage](https://github.com/bhanukaManesha)<br>
