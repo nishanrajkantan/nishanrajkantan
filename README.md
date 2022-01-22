@@ -23,7 +23,7 @@ class NishanKantan {
   
   var technologies = [
         machineLearning : [
-          frameworks: ["tensorFlow", "keras", "pytorch"],
+          frameworks: ["tensorFlow", "keras", "pytorch", "scikit-learn"],
           libraries: ["opencv", "pandas", "numpy"]
         ],
         mobileApp: ["react native📱"],
