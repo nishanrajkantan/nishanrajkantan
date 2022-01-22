@@ -1,6 +1,4 @@
  <p align="center">
-     <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="50%">
-    <br><br>
     <samp>
      I'm <a href="https://nishankantan.com/">Nishan Kantan</a> :wave:
       <br><br>
