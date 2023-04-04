@@ -35,12 +35,12 @@ class NishanKantan {
         ],
         devOps: [
             collaborate: ["trello", "jira"],
-            build: ["git", "docker🐳", ],
+            build: ["git", "docker🐳" ],
             test: ["selenium", "pytest"],
             deploy: ["git actions", "npm", "pip"],
             run: ["aws", "digital ocean", "gcp"]
            ],
-        databases: ["MySql", "sqlite"]
+        databases: ["MySql", "sqlite", "PostgreSQL"]
     ]
     
   var architectures = [
